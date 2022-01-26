@@ -1,0 +1,219 @@
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  display: inline;
+}
+
+li {
+  display: inline;
+  margin: auto;
+}
+
+p {
+  display: inline-block;
+}
+
+.p-india {
+  color: #a32020;
+  font-family: sans-serif;
+  padding-left: 1rem;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 4rem;
+  margin: 0 auto;
+  color: #1f1f1f;
+}
+
+.news {
+  display: inline;
+}
+.content {
+  width: 70%;
+  margin: 0 auto;
+}
+.headline {
+  font-family: "Oxygen", sans-serif;
+  padding: 0.5rem 1.5rem;
+  margin: 0 auto;
+  background-color: #d70040;
+  color: white;
+}
+
+.hr {
+  border-top: 0.188rem solid #6a6a6a;
+}
+.hr-article {
+  margin: 0;
+}
+
+.article {
+  text-align: justify;
+}
+h2 {
+  margin: 0 auto;
+}
+h3 {
+  margin: 0 auto;
+  color: #1f1f1f;
+}
+
+.headline-article:hover {
+  color: #a32020;
+}
+
+h4 {
+  font-weight: normal;
+  margin: 0 auto;
+  color: white;
+  font-family: "Oxygen", sans-serif;
+}
+
+h5 {
+  margin: 0 auto;
+  padding: 0.5rem 0;
+  font-weight: normal;
+}
+p {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: #a32020;
+}
+
+.lang-container {
+  margin: 0;
+  background: #dad8d9;
+  padding: 0.625rem 0;
+}
+.home {
+  padding: 0.5rem 0;
+}
+
+.home-india {
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.news-article {
+  padding-top: 0.5rem;
+}
+
+.article-row {
+  padding: 1rem 0;
+}
+
+.article-content {
+  padding-left: 2rem;
+}
+
+.headline-link {
+  padding-left: 0.5rem;
+  color: white;
+}
+
+.categories {
+  padding: 0.625rem 0;
+  margin: 0.5rem 0;
+  background-color: #1f1f1f;
+  width: 100%;
+}
+.india-news {
+  background-color: #f6f6f6;
+  margin: 0 auto;
+  padding: 0.5rem 0;
+}
+.india-categories {
+  padding: 0 0.5rem;
+  color: #6a6a6a;
+}
+
+.india-categories:hover {
+  color: #a32020;
+  text-decoration: none;
+}
+
+.india-list {
+  padding-left: 2rem;
+  margin: 0 auto;
+}
+
+.nav-bar-categories {
+  color: white;
+  padding: 0 0.5rem;
+}
+
+.nav-bar-categories:hover {
+  text-decoration: none;
+  border-bottom: 0.25rem solid #ff0303;
+}
+.article-row {
+  display: flex;
+}
+
+a {
+  font-family: "Oxygen", sans-serif;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+.header {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.languages {
+  padding: 0 20px;
+  color: #1f1f1f;
+}
+
+.footer {
+  text-align: center;
+  background-color: #1f1f1f;
+  width: 100%;
+  padding: 0.5rem 0;
+}
+
+.footer-link {
+  padding: 0 0.5rem;
+  color: white;
+}
+
+.footer-link:hover {
+  text-decoration: none;
+  border-bottom: 0.2rem solid #ff0303;
+}
+
+.lang {
+  color: black;
+}
+
+.lang:hover {
+  text-decoration: none;
+  border-top: 0.25rem solid #ff0303;
+  padding-top: 0.2rem;
+}
+
+.footer-text {
+  padding: 0.25rem 0;
+}
